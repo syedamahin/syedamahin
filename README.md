@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syeda Mahin Binta Haque</h1>
-<h3 align="center">Empowering Innovation Through Code and Research from Bangladesh</h3>
+<h3 align="center">Empowering Innovation Through Code and Research From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedamahin&label=Profile%20views&color=0e75b6&style=flat" alt="syedamahin" /> </p>
 
